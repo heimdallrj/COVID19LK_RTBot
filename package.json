@@ -1,0 +1,14 @@
+{
+  "name": "covid19lk_rtbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
